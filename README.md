@@ -1,8 +1,5 @@
 # Discord Music Bot
  Easy-to-install Discord bot for playing music from YouTube in voice channels. Enjoy seamless music playback with a simple setup.
-# Music Bot
-
-This is a Discord music bot that allows you to play music from YouTube in a voice channel. The bot is written in JavaScript using the Discord.js library and the @discordjs/voice package.
 
 ## Features
 
